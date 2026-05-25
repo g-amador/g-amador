@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🎮 Gonçalo N. Paiva Amador
+### 🎮 Gonçalo N. Paiva Amador
 Full‑Stack Developer · Tech Lead · AI‑Driven Engineering  
 
--🧍‍♂️ Player profile
+### 🧍‍♂️ Player profile
 <!--
 **g-amador/g-amador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
