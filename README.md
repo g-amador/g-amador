@@ -12,12 +12,15 @@
       <h2>🧑‍💻 Role</h2>
       💻 Full‑Stack Developer / ⚙️ Tech Lead<br>
       <em>.NET (C#, Web API, Blazor) • Angular • Azure OpenAI</em>
-      <h2>🧬 Tech Tree</h2>
-      🤖 AI‑Assisted Engineering<br>
-      🏭 Enterprise Systems<br>
-      🎮 Gamification<br>
-      🕹️ Game Engine Development
-      <h2>🧩 Engineering Principles</h2>
+      <h2>🚀 Tech Tree (traits)</h2>
+      Tier I — Foundation<br>
+      &nbsp;&nbsp;🏭 Enterprise Systems<br>
+      Tier II — Deeply Explored<br>
+      &nbsp;&nbsp;🎮 Gamification<br>
+      &nbsp;&nbsp;🕹️ Game Engine Development<br>
+      Tier III — Current focus<br>
+      &nbsp;&nbsp;🤖 AI‑Assisted Engineering<br>
+      <h2>🛡️ Engineering Principles</h2>
       💎 Clean Architecture<br>
       🧱 SOLID<br>
       🧩 Modular<br>
@@ -26,13 +29,17 @@
       🔄 Modernization
     </td>
     <td style="vertical-align:top; padding-left:30px; border-left:1px solid #777;">      
-      <h2>📈 Level</h2>
-      ⭐ 18+ years XP
+      <h2>⚔️ Level</h2>
+      18+ (Academic + Industry work years) <br>   
       <h2>📊 Stats</h2>
-      ❤️ <strong>HP:</strong> High (debugging endurance)<br>
-      🧠 <strong>INT:</strong> PhD‑Level<br>
+      ❤️ <strong>HP:</strong> Debugging Stamina<br>
+      ██████████░░░░░░ 70%<br>
+      ✨ <strong>XP:</strong> Experience Depth<br>
+      ███████████░░░░░ 75%<br>
       ⚡ <strong>DEX:</strong> Full‑stack agility<br>
-      🚀 <strong>Trait:</strong> AI Integration + Gamification    
+      █████████░░░░░░░ 65%<br>      
+      🧠 <strong>INT:</strong> Scientific Mindset<br>
+      ███████████░░░░░ 75%<br>
       <h2>🏆 Achievements</h2>
         🏆 Published 13 Papers<br>
         🏆 9 Keynote Talks Delivered<br>
