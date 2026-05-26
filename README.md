@@ -12,7 +12,7 @@
     <td style="vertical-align:top; padding-right:30px;">
       <h2>🧑‍💻 Role</h2>
       💻 Full‑Stack Developer / ⚙️ Tech Lead<br>
-      <em>(ASP.NET Core • ASP.NET Web API • C# • Blazor • Azure OpenAI • Angular)</em>
+      <em>.NET (C#, Web API, Blazor) • Angular • Azure OpenAI</em>
       <h2>🧬 Tech Tree</h2>
       🤖 AI‑Assisted Engineering<br>
       🏭 Enterprise Systems<br>
@@ -33,7 +33,7 @@
       ❤️ <strong>HP:</strong> High (debugging endurance)<br>
       🧠 <strong>INT:</strong> MAX (PhD in Computer Science)<br>
       ⚡ <strong>DEX:</strong> Full‑stack agility<br>
-      🚀 <strong>Trait:</strong> AI Integration + Gamification Synergy    
+      🚀 <strong>Trait:</strong> AI Integration + Gamification    
       <h2>🏆 Achievements</h2>
         🏆 Published 13 Papers<br>
         🏆 9 Keynote Talks Delivered<br>
