@@ -1,8 +1,42 @@
-# Hi there 👋, I'm Gonçalo N. Paiva Amador
+# Hi there 👋
 
-## Full-Stack Developer ASP.NET Core • ASP.NET Web API • C# • Blazor • Azure OpenAI
+<div align="center">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-amador&row=2&column=5&theme=monokai" alt="g-amador" /></a> </p>
+<table>
+  <tr>    
+    <td style="vertical-align: top; padding-right: 30px;">      
+      <h2>🧍‍♂️ Player 1 — Gonçalo N. Paiva Amador</h2>
+      <h2>🧙 Class</h2>
+      🧑‍💻 Full‑Stack Developer / ⚙️ Tech Lead<br>
+      <em>(ASP.NET Core • Web API • C# • Blazor • Azure OpenAI)</em></p>
+      <h2>⭐ Level</h2> 18+ years XP</p>
+      <h2>🛠️ Specialization</h2>
+      🤖 AI‑Assisted Engineering<br>
+      🏭 Enterprise Systems<br>
+      🎮 Gamification<br>
+      🕹️ Game Engine Development</p>      
+    </td>
+    <td style="vertical-align: top; border-left: 1px solid #ccc; padding-left: 30px;">
+      <h2>🕵️ Alignment</h2>      
+      🧼 Clean Architecture<br>
+      🧱 SOLID Principles<br>
+      🧩 Modular Architecture<br>
+      🏛️ Layered Architecture (classic structure)<br>
+      ⚡ High Performance<br>
+      🔧 Modernization</p>
+      <h2>📊 Stats</h2>
+      <p><strong>❤️ HP:</strong> High (debugging endurance)</p>
+      <p><strong>🧠 INT:</strong> MAX (PhD in Computer Science)</p>
+      <p><strong>⚡ DEX:</strong> Full‑stack agility</p>
+      <p><strong>🔮 Special:</strong> AI Integration + Gamification</p>
+    </td>
+  </tr>
+</table>
+</div>
+
+ 
+
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
