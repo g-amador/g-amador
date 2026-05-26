@@ -1,5 +1,4 @@
 <div align="center">
-
 <table style="width:100%; padding:20px; border:2px solid #444; border-radius:10px; background:#050608; color:#e5e5e5; font-family:Consolas, 'Courier New', monospace;">
   <tr/>
   <tr>
