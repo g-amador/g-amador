@@ -119,7 +119,7 @@
   <tr>
     <td colspan="2" style="padding-top:30px; border:2px solid #444; border-radius:10px; background:#050608; color:#e5e5e5; font-family:Consolas, 'Courier New', monospace;">
       <h2>📄Curriculum Vitae</h2>
-      <a href="https://github.com/g-amador/Curriculum-Vitae-Overleaf" target="_blank">Curriculum Vitae made in Overleaf</a>
+      <a href="https://github.com/g-amador/Curriculum-Vitae-Overleaf" target="_blank">Created in Overleaf</a>
     </td>
   </tr>
 </table>
