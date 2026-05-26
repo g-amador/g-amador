@@ -12,7 +12,7 @@
     <td style="vertical-align:top; padding-right:30px;">
       <h2>🧑‍💻 Role</h2>
       💻 Full‑Stack Developer / ⚙️ Tech Lead<br>
-      <em>(ASP.NET Core • Web API • C# • Blazor • Azure OpenAI)</em>
+      <em>(ASP.NET Core • ASP.NET Web API • C# • Blazor • Azure OpenAI • Angular)</em>
       <h2>🧬 Tech Tree</h2>
       🤖 AI‑Assisted Engineering<br>
       🏭 Enterprise Systems<br>
