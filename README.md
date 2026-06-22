@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">  
 <table style="width:100%; padding:20px; border:2px solid #444; border-radius:10px; background:#050608; color:#e5e5e5; font-family:Consolas, 'Courier New', monospace;">
   <tr/>
   <tr>
@@ -27,19 +27,6 @@
       📐 Layered<br>
       ⚡ High Performance<br>
       🔄 Modernization
-    </td>
-    <td style="vertical-align:top; padding-left:30px; border-left:1px solid #777;">      
-      <h2>⚔️ Level</h2>
-      18+ (Academic + Industry work years) <br>   
-      <h2>📊 Stats</h2>
-      ❤️ <strong>HP:</strong> Debugging Stamina<br>
-      ██████████░░░░░░ 70%<br>
-      ✨ <strong>XP:</strong> Experience Depth<br>
-      ███████████░░░░░ 75%<br>
-      ⚡ <strong>DEX:</strong> Full‑stack agility<br>
-      █████████░░░░░░░ 65%<br>      
-      🧠 <strong>INT:</strong> Scientific Mindset<br>
-      ███████████░░░░░ 75%<br>
       <h2>🏆 Achievements</h2>
         🏆 Published 13 Papers<br>
         🏆 9 Keynote Talks Delivered<br>
@@ -48,6 +35,23 @@
         🏆 Modernized Legacy Systems<br>
         🏆 Led Full‑Stack Teams<br>
         🏆 Built AI‑Enabled Services<br>        
+    </td>
+    <td style="vertical-align:top; padding-left:30px; border-left:1px solid #777;">
+      <h2>⚔️ Level</h2>
+      18+ (Academic + Industry work years) <br>       
+      <h2>📊 Stats</h2>
+      ❤️ <strong>HP:</strong> Debugging Stamina<br>
+      ██████████░░░░░░ 70%<br>
+      ✨ <strong>XP:</strong> Experience Depth<br>
+      ███████████░░░░░ 75%<br>
+      ⚡ <strong>DEX:</strong> Full‑stack agility<br>
+      █████████░░░░░░░ 65%<br>      
+      🧠 <strong>INT:</strong> Scientific Mindset<br>
+      ███████████░░░░░ 75%<br><br>
+      
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=g-amador&show_icons=true&theme=transparent)](https://github.com/g-amador/github-readme-stats)
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-amador&layout=compact&theme=transparent)](https://github.com/g-amador)  
     </td>
   </tr>
   <tr/>
