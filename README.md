@@ -49,9 +49,9 @@
       🧠 <strong>INT:</strong> Scientific Mindset<br>
       ███████████░░░░░ 75%<br><br>
       
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=g-amador&show_icons=true&theme=shadow_red)](https://github.com/g-amador/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=g-amador&show_icons=true&theme=transparent&custom_title=GitHub%20Stats)](https://github.com/g-amador)
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-amador&layout=compact&theme=shadow_red)](https://github.com/g-amador)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-amador&layout=compact&theme=transparent)](https://github.com/g-amador)  
     </td>
   </tr>
   <tr/>
